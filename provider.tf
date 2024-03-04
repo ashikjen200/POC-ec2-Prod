@@ -3,7 +3,7 @@ terraform {
     organization = "aws-Account1"
 
     workspaces {
-      name = "workspace001-dev"
+      name = "workspace001-prod"
     }
   }
 }
