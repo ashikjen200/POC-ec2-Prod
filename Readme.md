@@ -1,1 +1,1 @@
-This will create ec2 in Dev environment.
+This will create ec2 in PROD environment.
