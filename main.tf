@@ -3,7 +3,5 @@ module "ec2" {
   version = "1.1.2"
   ami = var.ami
   instance_type = var.instance_type
-  tags = {
-   Name = var.name_tag,
- }
+  env = var.env
 }
